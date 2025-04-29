@@ -11,3 +11,8 @@ The REPL windown may look like:
 
 ## Run the code
 The command line examples for launching an experiment are placed in the shell files within the **script** folder.
+
+A quick launch could be 
+```
+sh scripts/run_sim1.sh
+```
